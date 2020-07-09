@@ -1,0 +1,11 @@
+ini adalah file external.
+dan ini adalah baris ke dua
+
+data
+No  Nama
+1   Rahmat
+2   Wirangga
+3   Daus
+4   Akmal
+5   Ilas
+6   Mipta
