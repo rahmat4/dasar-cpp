@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+	// 1 byte = 4 bit
 
 	// bilangan bulat
 	int a = 5; // 32-bit
